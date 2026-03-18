@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/8yktfID.png" width="100%" alt="Spider-Man Miles Morales Banner">
+  <img src="https://i.imgur.com/8yktfID.png" width="80%" alt="Spider-Man Miles Morales Banner">
 </p>
 
 ## 💻 About Me
