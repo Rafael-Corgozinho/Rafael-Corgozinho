@@ -40,7 +40,7 @@ Hey! I'm Rafael, a Computer Science student at **UFV** passionate about building
 
 ## 📂 Featured Projects
 
-### 📘 [NeetCode 150 Solutions]([LINK_PARA_REPOSITORIO](https://github.com/Rafael-Corgozinho/neetcode-150-solutions)
+### 📘 [NeetCode 150 Solutions]([(https://github.com/Rafael-Corgozinho/neetcode-150-solutions)]()
 *Improving DSA skills using Java. Organized by categories like Arrays, Linked Lists, and DP.*
 
 ### 🎮 [Personal Game Project](LINK_PARA_REPOSITORIO)
