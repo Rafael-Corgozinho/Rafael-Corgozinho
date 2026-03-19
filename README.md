@@ -12,7 +12,7 @@
 Hey! I'm Rafael, a Computer Science student at **UFV** passionate about building real-world applications. Currently, I'm focused on strengthening my problem-solving abilities and backend development.
 
 - 🎓 **Education:** Computer Science Student
-- 📚 **Learning:** NeetCode 150 Roadmap (Java)
+- 📚 **Currently Learning:** NeetCode 150 Roadmap (Java)
 - ⚙️ **OS:** Pop!_OS (Linux User)
 - 🎯 **Goal:** Land an internship / junior developer position
 - 🕸️ **Inspiration:** Creativity, persistence, and building things that matter.
@@ -49,7 +49,7 @@ Hey! I'm Rafael, a Computer Science student at **UFV** passionate about building
 ### 🌐 [Personal Website](LINK_PARA_REPOSITORIO)
 *Frontend project developed to showcase my portfolio and personal progress.*
 
-### 📖 [University Projects]()
+### 📖 [University Projects](https://github.com/Rafael-Corgozinho/University_Projects)
 *Main projects developed during college courses.
 
 ---
