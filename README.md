@@ -26,6 +26,13 @@ Hey! I'm Rafael, a Computer Science student at **UFV** passionate about building
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ### ⚙️ Frameworks & Backend
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,7 +57,7 @@ Hey! I'm Rafael, a Computer Science student at **UFV** passionate about building
 *Frontend project developed to showcase my portfolio and personal progress.*
 
 ### 📖 [University Projects](https://github.com/Rafael-Corgozinho/University_Projects)
-*Main projects developed during college courses.
+*Main projects developed during college courses.*
 
 ---
 
@@ -66,10 +73,3 @@ Hey! I'm Rafael, a Computer Science student at **UFV** passionate about building
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-soares-25b470265/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corgozinhosoares@gmail.com)
-
-
----
-
-## 📊 GitHub Stats
-
-*(You can enable this later with GitHub stats cards)*
