@@ -45,29 +45,29 @@ Hey! I'm Rafael, a Computer Science student at **UFV** passionate about building
 
 ---
 
-## 📂 Featured Projects
-
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 📊 [Data Science Projects](https://github.com/Rafael-Corgozinho)
-*Projetos focados em análise de dados e backend.*
+*Projects focused on data analysis and backend.*
+* [Teen Mental Health Associated to the Use of Social Media](https://github.com/IagoFalcao/Projeto_DataScience)
 > **Tech Stack:** `Python` `Pandas` `NumPy`
 
 ### 📘 [NeetCode 150 Solutions](https://github.com/Rafael-Corgozinho/neetcode-150-solutions)
-*Aprimoramento de habilidades em Estruturas de Dados e Algoritmos (DSA). Resoluções estruturadas por categorias (Arrays, Linked Lists, Dynamic Programming, etc).*
+*Improving Data Structures and Algorithms (DSA) skills. Solutions organized by categories (Arrays, Linked Lists, Dynamic Programming, etc).*
 > **Tech Stack:** `Java`
 
-### 🎮 [Code Burger / Personal Game Project](LINK_PARA_REPOSITORIO)
-*Desenvolvimento de um jogo educacional 2D (temática de lanchonete tecnológica). Foco na construção de mecânicas de jogo e design de UI/UX.*
+### 🎮 [Fifo's Burger / Personal Game Project](LINK_PARA_REPOSITORIO)
+*Development of an educational 2D game (technological burger shop theme). Focus on building game mechanics and UI/UX design.*
 > **Tech Stack:** `Unity` `C#`
 
 ### 🌐 [Web Development](LINK_PARA_REPOSITORIO)
-*Aplicações e interfaces web, focadas na responsividade e experiência do usuário.*
+*Web applications and interfaces, focused on responsiveness and user experience.*
 > **Tech Stack:** `JavaScript` `HTML/CSS` `React`
 
 ### 📖 [University Projects (UFV)](https://github.com/Rafael-Corgozinho/University_Projects)
-*Repositório principal dos trabalhos práticos e projetos de arquitetura desenvolvidos durante o curso de Ciência da Computação (incluindo projetos como Anati Quanti 3.0).*
+*Main repository for practical assignments and architecture projects developed during the Computer Science course (including projects like Anati Quanti 3.0).*
 > **Tech Stack:** `C` `Java` `Docker`
+
 ---
 
 ## 📊 GitHub Stats
@@ -77,7 +77,6 @@ Hey! I'm Rafael, a Computer Science student at **UFV** passionate about building
 </p>
 
 ---
-
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-soares-25b470265/)
