@@ -47,18 +47,27 @@ Hey! I'm Rafael, a Computer Science student at **UFV** passionate about building
 
 ## 📂 Featured Projects
 
+## 🚀 Projetos em Destaque
+
+### 📊 [Data Science Projects](https://github.com/Rafael-Corgozinho)
+*Projetos focados em análise de dados e backend.*
+> **Tech Stack:** `Python` `Pandas` `NumPy`
+
 ### 📘 [NeetCode 150 Solutions](https://github.com/Rafael-Corgozinho/neetcode-150-solutions)
-*Improving DSA skills using Java. Organized by categories like Arrays, Linked Lists, and DP.*
+*Aprimoramento de habilidades em Estruturas de Dados e Algoritmos (DSA). Resoluções estruturadas por categorias (Arrays, Linked Lists, Dynamic Programming, etc).*
+> **Tech Stack:** `Java`
 
-### 🎮 [Personal Game Project](LINK_PARA_REPOSITORIO)
-*A gift project being developed in **Unity/C#**, focusing on game mechanics and UI/UX.*
+### 🎮 [Code Burger / Personal Game Project](LINK_PARA_REPOSITORIO)
+*Desenvolvimento de um jogo educacional 2D (temática de lanchonete tecnológica). Foco na construção de mecânicas de jogo e design de UI/UX.*
+> **Tech Stack:** `Unity` `C#`
 
-### 🌐 [Personal Website](LINK_PARA_REPOSITORIO)
-*Frontend project developed to showcase my portfolio and personal progress.*
+### 🌐 [Web Development](LINK_PARA_REPOSITORIO)
+*Aplicações e interfaces web, focadas na responsividade e experiência do usuário.*
+> **Tech Stack:** `JavaScript` `HTML/CSS` `React`
 
-### 📖 [University Projects](https://github.com/Rafael-Corgozinho/University_Projects)
-*Main projects developed during college courses.*
-
+### 📖 [University Projects (UFV)](https://github.com/Rafael-Corgozinho/University_Projects)
+*Repositório principal dos trabalhos práticos e projetos de arquitetura desenvolvidos durante o curso de Ciência da Computação (incluindo projetos como Anati Quanti 3.0).*
+> **Tech Stack:** `C` `Java` `Docker`
 ---
 
 ## 📊 GitHub Stats
