@@ -77,6 +77,8 @@ Hey! I'm Rafael, a Computer Science student at **UFV** passionate about building
 *Projects focused on data analysis and backend.*
 * [Teen Mental Health Associated to the Use of Social Media](https://github.com/IagoFalcao/Projeto_DataScience)
 > **Tech Stack:** `Python` `Pandas` `NumPy`
+* [Movie Vector Search MVP](https://github.com/Rafael-Corgozinho/Movie-Vector-Search)
+> **Tech Stack:** `Python` `FastAPI` `ChromaDB` `React`
 
 ### 📘 [NeetCode 150 Solutions](https://github.com/Rafael-Corgozinho/neetcode-150-solutions)
 *Improving Data Structures and Algorithms (DSA) skills. Solutions organized by categories (Arrays, Linked Lists, Dynamic Programming, etc).*
